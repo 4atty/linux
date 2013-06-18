@@ -29,8 +29,6 @@
 #include <linux/slab.h>
 #include <linux/mutex.h>
 #include <linux/proc_fs.h>
-#include <linux/spinlock.h>
-
 #include <net/sock.h>
 
 MODULE_LICENSE("GPL");
